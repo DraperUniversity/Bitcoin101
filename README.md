@@ -15,6 +15,44 @@ This course will be produced in Draper University’s multimedia studio Septembe
 The projected format for the course is to have  an on-camera host reading the written portions of the content, interspersed with animations where appropriate.  The hosted video segments will then be followed by interviews with interesting members of the bitcoin community in each section to add more color to the covered content, discuss areas that haven’t been covered in-depth, and possibly to illustrate more subjective viewpoints regarding bitcoin.
 
 
+### Outline ###
+
+
+#### I. [Introduction to Bitcoin](/01_intro.md/) ####
+
+* What is Bitcoin?
+* How does Bitcoin Work?
+* Byzantine Generals Problem
+
+#### II. [An Evolution of Payment Systems](/02_payments.md/) ####
+
+* What is Money?
+* Limitations of Legacy Payment Systems
+* Advantages of Bitcoin
+
+#### III. [Innovation in Bitcoin](/03_innovation.md/) ####
+
+* Early Innovation
+* Future of Bitcoin
+
+#### IV. [Regulatory Framework](/04_regulation.md/) ####
+
+* Emerging Regulations
+* Global Reactions
+
+#### V. [Getting Started with Bitcoin](/05_getting_started.md/) ####
+
+* Exchanges & Wallets
+* Merchant Integration
+
+#### VI. [Deeper Technical Dive](/06_technical.md/) ####
+
+* Cryptography
+* Mining
+* Alternative Networks
+
+
+
 ### How to Contribute ###
 
 Right now this is a very rough draft of what will ultimately be the course.  We’re posting it now so that we can hopefully get lots of feedback on the mistakes we’ve made and the manners in which we can improve the content. To that end we encourage everyone to take a look, fork this repo, and submit a pull request with your edits.

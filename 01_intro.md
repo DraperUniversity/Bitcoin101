@@ -4,7 +4,7 @@ Introduction to Bitcoin
 What is Bitcoin?
 ----------------
 
-How does Bitcion work?
+How does Bitcoin work?
 ----------------
 
 Byzantine Generals Problem
